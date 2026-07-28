@@ -1,0 +1,6 @@
+[submodule "backend-DocMind AI"]
+	path = backend-DocMind AI
+	url = https://github.com/ChamathDilshanC/backend-DocMind-AI.git
+[submodule "frontend-DocMind AI"]
+	path = frontend-DocMind AI
+	url = https://github.com/ChamathDilshanC/frontend-DocMind-AI.git
