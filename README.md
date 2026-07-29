@@ -70,7 +70,7 @@ Open `http://localhost:3000`.
 
 ## Deploying
 
-For a full Azure App Service deployment guide (PostgreSQL, Redis, Qdrant Cloud, App Settings, CI/CD), see [`backend-DocMind AI/DEPLOYMENT.md`](backend-DocMind%20AI/DEPLOYMENT.md).
+The backend deploys as a Docker container on Render, with Neon (PostgreSQL), Upstash (Redis), and Qdrant Cloud — a 100% free-tier stack. Full walkthrough: [`backend-DocMind AI/DEPLOYMENT.md`](backend-DocMind%20AI/DEPLOYMENT.md).
 
 ## Scope
 
