@@ -68,6 +68,10 @@ npm run dev
 
 Open `http://localhost:3000`.
 
+## Deploying
+
+For a full Azure App Service deployment guide (PostgreSQL, Redis, Qdrant Cloud, App Settings, CI/CD), see [`backend-DocMind AI/DEPLOYMENT.md`](backend-DocMind%20AI/DEPLOYMENT.md).
+
 ## Scope
 
 This implementation covers Phases 1–4 of the architecture doc, built to production quality:
