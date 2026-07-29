@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" alt="DocMind AI" width="360" />
+</p>
+
 # DocMind AI
 
 An AI-powered RAG (Retrieval-Augmented Generation) document assistant — upload PDF/DOCX files and ask questions grounded only in their content, with page-level citations and real-time streaming answers.
